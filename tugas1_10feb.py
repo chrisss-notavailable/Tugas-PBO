@@ -1,7 +1,7 @@
 #  TUGAS 1
 
-x=int (input("masukkan angka 1 : "))
-y=int (input("masukkan angka 2 : "))
+x=float (input("masukkan angka 1 : "))
+y=float (input("masukkan angka 2 : "))
 
 print(f"maka hasil tambahnya adalah : {x+y}")
 print(f"maka hasil kalinya adalah : {x*y}")
